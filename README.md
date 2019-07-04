@@ -3,7 +3,8 @@ Simple Cardgame packaged as a Windows WPF project.
 Written in C# with Visual Studio 2017 and a simple "Model-view-controller".
 Unit test cases for basic functions are provided in separate folder. However when CardGame.App is opened in visual Studio, Unit-test project is included as normal. All tests are runnable in VS 2017. Most likely VS 2019 as well.
 
-* Default number of Decks are set to 2, its however easy to change in source code.
+* Default number of Decks are set to 2 in project, its however easy to change in source code.
+* In CardGameApp.exe runnable the default is set to 1 Deck.
 
 * Implements basic functionality according to assignment specs:
 * -Deck is created in sorted order hearts(Ace, 2, 3...King), diamonds, clovers, spades.
