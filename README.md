@@ -6,7 +6,7 @@ Unit test cases for basic functions are provided in separate folder. However whe
 * Default number of Decks are set to 2 in project, its however easy to change in source code.
 
 
-* Implements basic functionality according to assignment specs:
+* Implements basic functionality according to specs:
 * -Deck is created in sorted order hearts(Ace, 2, 3...King), diamonds, clovers, spades.
    If 2 or more decks are present: hearts( Ace, Ace, 2, 2, 3, 3...King, King) etc same as above.
 * Functions
